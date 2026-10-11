@@ -1,0 +1,16 @@
+# Abaikan virtual environment
+venv/
+env/
+.venv/
+
+# Abaikan folder sistem dan cache
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+
+# Abaikan folder gambar besar (karena tugas ini fokus ke data tabular)
+visual_inspection/
+
+# Abaikan file output lokal yang tidak perlu
+*.log
